@@ -1,8 +1,8 @@
 # nodejs-sequelize-crud-api-basico-materialize
 
-![Alt text](nodejs_sequelize1.jpg);
+![Alt text](nodejs_sequelize1.png);
 ![Alt text](nodejs_sequelize3.png);
-![Alt text](nodejs_sequelize2.jpg);
+![Alt text](nodejs_sequelize2.png);
 
 NODEJS - API-CRUD  CON SEQUELIZE  CON MATERIALIZE -IMAGEN DE FONDO 
 
